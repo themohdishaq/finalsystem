@@ -1,5 +1,4 @@
 import Link from 'next/link';
-
 import AcmeLogo from '@/app/ui/acme-logo';
 import { PowerIcon } from '@heroicons/react/24/outline';
 import NavLinks from './nav-links';
@@ -28,3 +27,5 @@ export default function SideNav() {
     </div>
   );
 }
+
+// set completely random values for the props
